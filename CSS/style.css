@@ -1,0 +1,91 @@
+body{
+
+  font-family: sans-serif;
+
+}
+
+header{
+  border-bottom: grey  solid 1px;
+  padding-bottom: 20px;
+  margin: 45px;
+
+}
+
+.cajapadre{
+  overflow: hidden;
+}
+
+nav{
+  width: 300px;
+  float: left;
+  padding: 15px;
+
+}
+
+main{
+  width: 610px;
+  float: right;
+  padding: 25px;
+  border-left: grey solid 1px;
+  margin: 45px;
+
+
+}
+
+.fotoentrada{
+  float: right;
+}
+footer{
+  padding: 20px;
+  background-color: rgba(192, 192, 192, 0.5);
+  height: 80px;
+overflow: hidden;
+}
+
+
+
+.botonespiedepagina{
+  float: right;
+
+
+  }
+
+  a {
+    font-size:18px;
+    text-decoration: none;
+    color: grey;
+    font-weight: bold;
+  }
+
+  ul {
+  list-style: none;
+  }
+
+
+  /* CONTACTO */
+
+.cajaformulario{
+background-color: #F9F9F7;
+position: absolute;
+left: 400px;
+padding-left: 20px;
+border-left: gold solid 2px;
+border-right: gold solid 2px;
+padding-right: 40px;
+}
+
+button{
+  font-size: 15px;
+  color: white;
+  background-color: gold;
+  border-radius: 10px;
+  width: 280px;
+  float: left;
+  padding: 4px;
+  margin: 3px;
+}
+
+#segundoboton{
+  background-color: white;
+  color: gold;
+}
