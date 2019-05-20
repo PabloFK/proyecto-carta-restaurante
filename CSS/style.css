@@ -53,14 +53,23 @@ overflow: hidden;
   a {
     font-size:18px;
     text-decoration: none;
-    color: grey;
     font-weight: bold;
+    color: grey;
   }
 
   ul {
   list-style: none;
   }
 
+  #Botones a{
+    color: white;
+    padding: 5px;
+  }
+.botonespiedepagina{
+  padding-bottom: 15px;
+bottom: 15px;
+position: relative;
+}
 
   /* CONTACTO */
 
